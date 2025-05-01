@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5c5b1e8.css",
+    "main.js": "/static/js/main.bed3eb8b.js",
+    "index.html": "/index.html",
+    "static/media/rohantravels-logo.svg": "/static/media/rohantravels-logo.c44698fc839de3c39eeb2899279c151a.svg",
+    "main.d5c5b1e8.css.map": "/static/css/main.d5c5b1e8.css.map",
+    "main.bed3eb8b.js.map": "/static/js/main.bed3eb8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5c5b1e8.css",
+    "static/js/main.bed3eb8b.js"
+  ]
+}
